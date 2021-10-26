@@ -43,5 +43,3 @@ Created by Ryan Emmans
   - `router.post('/signin', basicAuth, (req,res) => {});`
   - When validated, send a JSON object as the response with the following properties:
     - `user`: The users’ database record
-
-## Notes
