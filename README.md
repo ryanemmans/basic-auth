@@ -30,7 +30,7 @@ Created by Ryan Emmans
 
 ## UML
 
-![Basic Authorization UML](./img/basic-authorization.png)
+![Basic Authorization UML](./img/basic-auth.png)
 
 ## Routes
 
